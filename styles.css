@@ -82,3 +82,10 @@ body{
 #bar5{
     grid-area: 15 / 21 / 16 / 27;
 }
+
+.bar10{
+    width: 60px;
+    height: 300px;
+    background-color: lightgrey;
+    grid-area: 25 / 21 / 26 / 27;
+}
