@@ -1,4 +1,84 @@
-body, html{
+body{
     padding: 0;
     margin: 0;
+}
+
+.container-body{
+    display: grid;
+    grid-auto-columns: repeat(35, 1fr);
+    grid-auto-rows: 30px;
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+    align-items: center;
+    justify-items: center;
+}
+
+.bar1,
+.bar9{
+    width: 200px;
+    height: 30px;
+    background-color: lightgray;
+}
+
+#bar1{
+    grid-area: 9 / 21 / 8 / 27;
+}
+
+#bar9{
+    grid-area: 22 / 21 / 23 / 27;
+}
+
+.bar2,
+.bar8{
+    width: 280px;
+    height: 30px;
+    background-color: lightgrey;
+}
+
+#bar2{
+    grid-area: 10 / 21 / 9 / 27;
+}
+
+#bar8{
+    grid-area: 21 / 21 / 22 / 27;
+}
+
+.bar3,
+.bar7{
+    width: 360px;
+    height: 30px;
+    background-color: lightgrey;
+}
+
+#bar3{
+    grid-area: 11 / 21 / 10 / 27;
+}
+
+#bar7{
+    grid-area: 20 / 21 / 21 / 27;
+}
+
+.bar4,
+.bar6{
+    width: 440px;
+    height: 90px;
+    background-color: lightgrey;
+}
+
+#bar4{
+    grid-area: 12 / 21 / 13 / 27;
+}
+
+#bar6{
+    grid-area: 18 / 21 / 19 / 27;
+}
+
+.bar5{
+    width: 520px;
+    height: 120px;
+    background-color: lightgrey;
+}
+
+#bar5{
+    grid-area: 15 / 21 / 16 / 27;
 }
