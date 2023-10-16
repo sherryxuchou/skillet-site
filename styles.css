@@ -2,7 +2,7 @@ body{
     padding: 0;
     margin: 0;
 }
-
+/* START OF FIRST LAYOUT */
 .container-pan1{
     display: grid;
     grid-template-columns: repeat(50, auto);
@@ -12,7 +12,7 @@ body{
     align-items: center;
     justify-items: center;
 }
-
+/* SKILLET SHAPE */
 .bar1,
 .bar9{
     width: 200px;
@@ -264,7 +264,6 @@ body{
     grid-area: 27 / 38 / 28 / 39;
     padding-left: 10%;
 }
-
 /* water outside of pan - LEFT side */
 #water-pan-36{
     grid-area: 14 / 17 / 15 / 18;
@@ -312,4 +311,70 @@ body{
 #water-pan-48{
     grid-area: 25 / 28 / 26 / 29;
     padding-left: 40%;
+}
+/* START OF SECOND LAYOUT */
+.container-pan2{
+    display: grid;
+    grid-template-columns: repeat(50, 1fr);
+    grid-template-rows: repeat(10, 1fr) repeat(40, auto);
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+    align-items: start;
+    justify-items: center;
+}
+
+.squarebar{
+    width: 200px;
+    height: 30px;
+    background-color: lightgray;
+}
+
+.square{
+    width: 30px;
+    height: 30px;
+    background-color: lightgray;
+}
+
+#square1{
+    grid-area: 10 / 25 / 11 / 26;
+}
+#square2{
+    grid-area: 11 / 26 / 12 / 27;
+}
+#square3{
+    grid-area: 12 / 27 / 13 / 28;
+    margin-left: -15%;
+}
+#square4{
+    grid-area: 16 / 27 / 17 / 28;
+}
+#square5{
+    grid-area: 17 / 26 / 18 / 27;
+    margin-left: 30%;
+}
+#square6{
+    grid-area: 18 / 25 / 19 / 26;
+    margin-left: 8%;
+}
+
+.column1-right{
+    width: 30px;
+    height: 90px;
+    background-color: lightgray;
+    grid-area: 13 / 27 / 14 / 28;
+    margin-left: 160%;
+}
+.column2-right{
+    width: 30px;
+    height: 120px;
+    background-color: lightgray;
+    grid-area: 14 / 28 / 15 / 29;
+    margin-left: 140%;
+}
+.column3-right{
+    width: 30px;
+    height: 90px;
+    background-color: lightgray;
+    grid-area: 15 / 27 / 16 / 28;
+    margin-left: 160%;
 }
