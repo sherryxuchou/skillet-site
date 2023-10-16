@@ -5,13 +5,12 @@ body{
 
 .container-pan1{
     display: grid;
-    grid-template-columns: repeat(50, 1fr);
-    grid-template-rows: repeat(50);
+    grid-template-columns: repeat(50, auto);
+    grid-template-rows: repeat(50, auto);
     grid-column-gap: 0px;
     grid-row-gap: 0px;
     align-items: center;
     justify-items: center;
-    /* padding-top: 200px; */
 }
 
 .bar1,
@@ -37,7 +36,7 @@ body{
 }
 
 #bar2{
-    grid-area: 10 / 25 / 9 / 40;
+    grid-area: 9 / 25 / 10 / 40;
 }
 
 #bar8{
@@ -52,7 +51,7 @@ body{
 }
 
 #bar3{
-    grid-area: 11 / 25 / 10 / 40;
+    grid-area: 10 / 25 / 11 / 40;
 }
 
 #bar7{
@@ -95,161 +94,222 @@ body{
     /* display: grid;
     grid-template-columns: subgrid;
     grid-template-rows: subgrid; */
+    justify-items: center;
+    text-wrap: nowrap;
     color: blue;
     font-family: Arial, Helvetica, sans-serif;
     font-style: italic;
     z-index: 2;
 
 }
-
+/* water INSIDE of pan */
 #water-pan-1{
     font-weight: bold;
-    text-wrap: nowrap;
     grid-area: 1 / 29 / 2 / 30;
     padding-left: 1%;
     
 }
 #water-pan-2{
     font-weight: bold;
-    text-wrap: nowrap;
     grid-area: 2 / 29 / 3 / 30;
     padding-left: 40%;
 }
 #water-pan-3{
     font-weight: bold;
-    text-wrap: nowrap;
     grid-area: 3 / 29 / 4 / 30;
     padding-left: 35%;
 }
 #water-pan-4{
     font-weight: bold;
-    text-wrap: nowrap;
     grid-area: 4 / 29 / 5 / 30;
     padding-left: 40%;
 }
 #water-pan-5{
     font-weight: bold;
-    text-wrap: nowrap;
     grid-area: 5 / 29 / 6 / 30;
     padding-left: 75%;
 }
 #water-pan-6{
     font-weight: bold;
-    text-wrap: nowrap;
     grid-area: 6 / 29 / 7 / 30;
     padding-left: 35%;
 }
 #water-pan-7{
     font-weight: bold;
-    text-wrap: nowrap;
     grid-area: 7 / 29 / 8 / 30;
     padding-left: 70%;
 }
 #water-pan-8{
     font-weight: bold;
-    text-wrap: nowrap;
     grid-area: 8 / 29 / 9 / 30;
-    padding-left: 80%;
+    padding-left: 65%;
 }
 #water-pan-9{
     font-weight: bold;
-    text-wrap: nowrap;
     grid-area: 9 / 29 / 10 / 30;
     padding-left: 80%;
 }
 #water-pan-10{
     font-weight: bold;
-    text-wrap: nowrap;
     grid-area: 10 / 29 / 11 / 30;
     padding-left: 90%;
 }
 #water-pan-11{
     font-weight: bold;
-    text-wrap: nowrap;
     grid-area: 11 / 29 / 12 / 30;
-    padding-left: 80%;
-}
-#water-pan-11{
-    font-weight: bold;
-    text-wrap: nowrap;
-    grid-area: 11 / 29 / 12 / 30;
-    padding-left: 80%;
+    padding-left: 60%;
 }#water-pan-12{
     font-weight: bold;
-    text-wrap: nowrap;
     grid-area: 12 / 29 / 13 / 30;
     padding-left: 110%;
 }
 #water-pan-13{
     font-weight: bold;
-    text-wrap: nowrap;
     grid-area: 13 / 29 / 14 / 30;
     padding-left: 110%;
 }
 #water-pan-14{
     font-weight: bold;
-    text-wrap: nowrap;
     grid-area: 14 / 29 / 15 / 30;
     padding-left: 130%;
 }
 #water-pan-15{
     font-weight: bold;
-    text-wrap: nowrap;
     grid-area: 15 / 29 / 16 / 30;
     padding-left: 70%;
 }
 #water-pan-16{
     font-weight: bold;
-    text-wrap: nowrap;
     grid-area: 16 / 29 / 17 / 30;
     padding-left: 80%;
 }
 #water-pan-17{
     font-weight: bold;
-    text-wrap: nowrap;
     grid-area: 17 / 29 / 18 / 30;
     padding-left: 80%;
 }
 #water-pan-18{
     font-weight: bold;
-    text-wrap: nowrap;
     grid-area: 18 / 29 / 19 / 30;
     padding-left: 70%;
 }
 #water-pan-19{
     font-weight: bold;
-    text-wrap: nowrap;
     grid-area: 19 / 29 / 20 / 30;
     padding-left: 100%;
 }
 #water-pan-20{
     font-weight: bold;
-    text-wrap: nowrap;
     grid-area: 20 / 29 / 21 / 30;
     padding-left: 60%;
 }
 #water-pan-21{
     font-weight: bold;
-    text-wrap: nowrap;
     grid-area: 21 / 29 / 22 / 30;
     padding-left: 60%;
 }
 #water-pan-22{
     font-weight: bold;
-    text-wrap: nowrap;
     grid-area: 22 / 29 / 23 / 30;
     padding-left: 55%;
 }
 #water-pan-23{
     font-weight: bold;
-    text-wrap: nowrap;
     grid-area: 23 / 29 / 24 / 30;
     padding-left: 75%;
 }
+/* water outside of pan - RIGHT side */
+#water-pan-24{
+    grid-area: 4 / 38 / 5 / 39;
+    padding-left: 45%;
+}
+#water-pan-25{
+    grid-area: 5 / 38 / 6 / 39;
+}
+#water-pan-26{
+    grid-area: 6 / 38 / 7 / 39;
+}
+#water-pan-27{
+    grid-area: 7 / 38 / 8 / 39;
+    padding-left: 90%;
+}
+#water-pan-28{
+    grid-area: 15 / 39 / 16 / 40;
+    padding-left: 90%;
+}
+#water-pan-29{
+    grid-area: 18 / 38 / 19 / 39;
+    padding-left: 90%;
+}
+#water-pan-30{
+    grid-area: 19 / 38 / 20 / 39;
+    padding-left: 80%;
+}
+#water-pan-31{
+    grid-area: 20 / 38 / 21 / 39;
+    padding-left: 70%;
+}
+#water-pan-32{
+    grid-area: 21 / 39 / 22 / 40;
+}
+#water-pan-33{
+    text-wrap: nowrap;
+    grid-area: 25 / 38 / 26 / 39;
+}
+#water-pan-34{
+    grid-area: 26 / 38 / 27 / 39;
+    padding-left: 30%;
+}
+#water-pan-35{
+    grid-area: 27 / 38 / 28 / 39;
+    padding-left: 10%;
+}
 
-/* .filler{
-    width: 60px;
-    height: 200px;
-    background-color: white;
-    grid-area: 2 / 12 / 3 / 27;
-} */
+/* water outside of pan - LEFT side */
+#water-pan-36{
+    grid-area: 14 / 17 / 15 / 18;
+}
+#water-pan-37{
+    grid-area: 15 / 17 / 16 / 18;
+}
+#water-pan-38{
+    grid-area: 16 / 17 / 17 / 18;
+    padding-left: 30%;
+}
+#water-pan-39{
+    grid-area: 17 / 17 / 18 / 18;
+    padding-left: 110%;
+}
+#water-pan-40{
+    grid-area: 19 / 18 / 20 / 19;
+}
+#water-pan-41{
+    grid-area: 20 / 17 / 21 / 18;
+    padding-left: 40%;
+}
+#water-pan-42{
+    grid-area: 21 / 17 / 22 / 18;
+    padding-left: 40%;
+}
+#water-pan-43{
+    grid-area: 22 / 17 / 23 / 18;
+    padding-left: 50%;
+}
+#water-pan-44{
+    grid-area: 23 / 17 / 24 / 18;
+    padding-left: 100%;
+}
+#water-pan-45{
+    grid-area: 24 / 17 / 25 / 18;
+    padding-left: 100%;
+}
+#water-pan-46{
+    grid-area: 23 / 28 / 24 / 29;
+}
+#water-pan-47{
+    grid-area: 24 / 28 / 25 / 29;
+}
+#water-pan-48{
+    grid-area: 25 / 28 / 26 / 29;
+    padding-left: 40%;
+}
