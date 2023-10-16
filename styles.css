@@ -26,7 +26,7 @@ body{
 }
 
 #bar9{
-    grid-area: 22 / 25 / 23 / 40;
+    grid-area: 21 / 25 / 22 / 40;
 }
 
 .bar2,
@@ -41,7 +41,7 @@ body{
 }
 
 #bar8{
-    grid-area: 21 / 25 / 22 / 40;
+    grid-area: 20 / 25 / 21 / 40;
 }
 
 .bar3,
@@ -56,7 +56,7 @@ body{
 }
 
 #bar7{
-    grid-area: 19 / 25 / 21 / 40;
+    grid-area: 19 / 25 / 20 / 40;
 }
 
 .bar4,
@@ -88,7 +88,7 @@ body{
     width: 60px;
     height: 220px;
     background-color: lightgrey;
-    grid-area: 23 / 25 / 26 / 40;
+    grid-area: 22 / 25 / 26 / 40;
 }
 
 .water{
