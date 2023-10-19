@@ -471,11 +471,11 @@ body{
 
 #heat1{
     grid-area: 8 / 23 / 9 / 25;
-    padding-left: 250%;
+    padding-left: 300%;
 }
 #heat2{
     grid-area: 9 / 23 / 10 / 25;
-    padding-left: 50%;
+    padding-left: 90%;
 }
 #heat3{
     grid-area: 10 / 19 / 11 / 25;
@@ -556,5 +556,227 @@ body{
 }
 
 #oil1{
-    grid-area: 10 / 25 / 11 / 26;
+    grid-area: 10 / 24 / 11 / 27;
+}
+#oil2{
+    grid-area: 11 / 24 / 12 / 27;
+}
+#oil3{
+    grid-area: 12 / 24 / 13 / 27;
+}
+#oil4{
+    grid-area: 13 / 24 / 14 / 27;
+}
+#oil5{
+    grid-area: 14 / 24 / 15 / 27;
+}
+#oil6{
+    grid-area: 15 / 24 / 16 / 27;
+}
+#oil7{
+    grid-area: 16 / 24 / 17 / 27;
+}
+#oil8{
+    grid-area: 17 / 24 / 18 / 27;
+}
+#oil9{
+    grid-area: 18 / 24 / 19 / 27;
+}
+#oil10{
+    grid-area: 19 / 24 / 20 / 27;
+}
+#oil11{
+    grid-area: 20 / 24 / 21 / 27;
+}
+#oil12{
+    grid-area: 21 / 24 / 22 / 27;
+}
+#oil13{
+    grid-area: 22 / 24 / 23 / 27;
+}
+#oil14{
+    grid-area: 23 / 24 / 24 / 27;
+}
+#oil15{
+    grid-area: 24 / 24 / 25 / 27;
+}
+#oil16{
+    grid-area: 25 / 24 / 26 / 27;
+}
+
+/* COOL */
+.cool{
+    justify-items: center;
+    align-items: center;
+    text-wrap: nowrap;
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    z-index: 1;
+}
+
+#cool1{
+    grid-area: 8 / 25 / 9 / 30;
+}
+#cool2{
+    grid-area: 8 / 29 / 9 / 40;
+}
+#cool3{
+    grid-area: 9 / 25 / 10 / 30;
+}
+#cool4{
+    grid-area: 9 / 27 / 10 / 40;
+    padding-left: 5%;
+}
+#cool5{
+    grid-area: 10 / 26 / 11 / 30;
+    padding-left: 60%;
+}
+#cool6{
+    grid-area: 10 / 34 / 11 / 40;
+}
+#cool7{
+    grid-area: 11 / 23 / 12 / 40;
+    padding-left: 8%;
+}
+#cool8{
+    grid-area: 11 / 31 / 12 / 41;
+}
+#cool9{
+    grid-area: 12 / 24 / 13 / 40;
+    padding-left: 3%;
+}
+#cool10{
+    grid-area: 12 / 31 / 13 / 40;
+}
+#cool11{
+    grid-area: 13 / 25 / 14 / 40;
+    padding-left: 3%;
+}
+#cool12{
+    grid-area: 13 / 31 / 14 / 40;
+}
+#cool13{
+    grid-area: 14 / 25 / 15 / 40;
+    padding-left: 3%;
+}
+#cool14{
+    grid-area: 14 / 31 / 15 / 40;
+}
+#cool15{
+    grid-area: 15 / 25 / 16 / 40;
+    padding-left: 3%;
+}
+#cool16{
+    grid-area: 15 / 31 / 16 / 40;
+}
+#cool17{
+    grid-area: 16 / 25 / 17 / 40;
+    padding-left: 7%;
+}
+#cool18{
+    grid-area: 17 / 25 / 18 / 40;
+    padding-left: 7%;
+}
+#cool19{
+    grid-area: 18 / 25 / 19 / 40;
+    padding-left: 7%;
+}
+#cool20{
+    grid-area: 19 / 25 / 20 / 40;
+    padding-left: 7%;
+}
+#cool21{
+    grid-area: 20 / 25 / 21 / 40;
+    padding-left: 7%;
+}
+#cool22{
+    grid-area: 21 / 25 / 22 / 40;
+    padding-left: 12%;
+}
+#cool23{
+    grid-area: 22 / 25 / 23 / 40;
+    padding-left: 21%;
+}
+#cool24{
+    grid-area: 23 / 25 / 24 / 40;
+    padding-left: 21%;
+}
+#cool25{
+    grid-area: 24 / 25 / 25 / 40;
+    padding-left: 21%;
+}
+#cool26{
+    grid-area: 25 / 25 / 26 / 40;
+    padding-left: 2%;
+}
+#cool27{
+    grid-area: 25 / 34 / 26 / 40;
+}
+#cool28{
+    grid-area: 26 / 16 / 27 / 40;
+    padding-left: 2%;
+}
+#cool29{
+    grid-area: 26 / 26 / 27 / 40;
+    padding-left: 7%;
+}
+#cool30{
+    grid-area: 26 / 37 / 27 / 40;
+}
+#cool31{
+    grid-area: 27 / 16 / 28 / 40;
+}
+#cool32{
+    grid-area: 27 / 25 / 28 / 40;
+    padding-left: 26%;
+}
+#cool33{
+    grid-area: 28 / 15 / 29 / 40;
+    padding-left: 2%;
+}
+#cool34{
+    grid-area: 28 / 25 / 29 / 40;
+    padding-left: 22%;
+}
+#cool35{
+    grid-area: 29 / 15 / 30 / 40;
+    padding-left: 2%;
+}
+#cool36{
+    grid-area: 29 / 25 / 30 / 40;
+    padding-left: 22%;
+}
+#cool37{
+    grid-area: 30 / 17 / 31 / 40;
+    padding-left: 2%;
+}
+#cool38{
+    grid-area: 30 / 25 / 31 / 40;
+    padding-left: 19%;
+}
+#cool39{
+    grid-area: 31 / 17 / 32 / 40;
+    padding-left: 2%;
+}
+#cool40{
+    grid-area: 31 / 25 / 32 / 40;
+    padding-left: 19%;
+}
+#cool41{
+    grid-area: 32 / 19 / 33 / 40;
+    padding-left: 2%;
+}
+#cool42{
+    grid-area: 33 / 19 / 34 / 40;
+    padding-left: 2%;
+}
+#cool43{
+    grid-area: 34 / 21 / 35 / 40;
+    padding-left: 2%;
+}
+#cool44{
+    grid-area: 35 / 23 / 36 / 40;
+    padding-left: 2%;
 }
