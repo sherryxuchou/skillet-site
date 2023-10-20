@@ -1051,3 +1051,35 @@ body{
     grid-area: 9 / 11 / 10 / 15;
     margin-left: 30%;
 }
+/* SIZZLES - RIGHTE */
+#sizzle37{
+    grid-area: 29 / 13 / 30 / 18;
+}
+#sizzle38{
+    grid-area: 28 / 14 / 29 / 17;
+    margin-left: 25%;
+}
+#sizzle39{
+    grid-area: 27 / 15 / 28 / 17;
+    margin-left: 25%;
+}
+#sizzle40{
+    grid-area: 26 / 14 / 27 / 17;
+    margin-left: 25%;
+}
+#sizzle41{
+    grid-area: 25 / 14 / 26 / 17;
+    margin-left: 25%;
+}
+#sizzle42{
+    grid-area: 24 / 15 / 25 / 17;
+    margin-left: 25%;
+}
+#sizzle43{
+    grid-area: 23 / 15 / 24 / 17;
+    margin-left: 25%;
+}
+#sizzle44{
+    grid-area: 22 / 14 / 23 / 17;
+    margin-left: 25%;
+}
