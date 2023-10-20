@@ -780,3 +780,274 @@ body{
     grid-area: 35 / 23 / 36 / 40;
     padding-left: 2%;
 }
+
+/* START OF THIRD LAYOUT */
+.container-pan3{
+    display: grid;
+    grid-template-columns: repeat(50, 1fr);
+    grid-template-rows: repeat(10, 1fr) repeat(40, auto);
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+    align-items: start;
+    justify-items: center;
+}
+
+/* SKILLET SHAPE */
+.pan3-bar1,
+.pan3-bar10{
+    width: 250px;
+    height: 30px;
+    background-color: lightgray;
+}
+
+#pan3-bar1{
+    grid-area: 26 / 10 / 27 / 18;
+}
+#pan3-bar10{
+    grid-area: 35 / 10 / 36 / 18;
+}
+
+.pan3-bar2,
+.pan3-bar9{
+    width: 330px;
+    height: 30px;
+    background-color: lightgray;
+}
+
+#pan3-bar2{
+    grid-area: 27 / 10 / 28 / 18;
+}
+#pan3-bar9{
+    grid-area: 34 / 10 / 35 / 18;
+}
+
+.pan3-bar3,
+.pan3-bar8{
+    width: 450px;
+    height: 30px;
+    background-color: lightgray;
+}
+
+#pan3-bar3{
+    grid-area: 28 / 11 / 29 / 18;
+}
+#pan3-bar8{
+    grid-area: 33 / 11 / 34 / 18;
+}
+
+.pan3-bar4,
+.pan3-bar5,
+.pan3-bar6,
+.pan3-bar7{
+    width: 590px;
+    height: 30px;
+    background-color: lightgray;
+}
+
+#pan3-bar4{
+    grid-area: 29 / 11 / 30 / 18;
+}
+#pan3-bar5{
+    grid-area: 30 / 11 / 31 / 18;
+}
+#pan3-bar6{
+    grid-area: 31 / 11 / 32 / 18;
+}
+#pan3-bar7{
+    grid-area: 32 / 11 / 33 / 18;
+}
+
+.whitesquare{
+    width: 30px;
+    height: 30px;
+    background-color: white;
+}
+
+#whitesquare1{
+    grid-area: 31 / 11 / 32 / 12;
+    margin-left: 35%;
+}
+#whitesquare2{
+    grid-area: 32 / 11 / 33 / 12;
+    margin-left: 110%;
+}
+#whitesquare3{
+    grid-area: 32 / 15 / 33 / 16;
+    margin-left: 170%;
+}
+#whitesquare4{
+    grid-area: 31 / 16 / 32 / 17;
+    margin-left: 40%;
+}
+
+.whitebar{
+    width: 331px;
+    height: 30px;
+    background-color: white;
+    grid-area: 33 / 12 / 34 / 16;
+    margin-left: 11%;
+}
+
+.handle3{
+    width: 280px;
+    height: 60px;
+    background-color: lightgrey;
+    grid-area: 30 / 16 / 32 / 32;
+}
+
+/* SIZZLES */
+.sizzle{
+    justify-items: center;
+    align-items: center;
+    text-wrap: nowrap;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    z-index: 1;
+}
+/* SIZZLES - LEFT */
+#sizzle1{
+    grid-area: 29 / 12 / 30 / 14;
+    margin-left: 10%;
+}
+#sizzle2{
+    grid-area: 28 / 11 / 29 / 14;
+    margin-left: 20%;
+}
+#sizzle3{
+    grid-area: 27 / 11 / 28 / 14;
+    margin-left: 20%;
+}
+#sizzle4{
+    grid-area: 26 / 12 / 27 / 14;
+    margin-left: 10%;
+}
+#sizzle5{
+    grid-area: 25 / 11 / 24 / 14;
+    margin-left: 20%;
+}
+#sizzle6{
+    grid-area: 23 / 10 / 24 / 14;
+    margin-left: 10%;
+}
+#sizzle7{
+    grid-area: 22 / 10 / 23 / 14;
+    margin-left: 10%;
+}
+#sizzle8{
+    grid-area: 21 / 10 / 22 / 14;
+    margin-left: 10%;
+}
+#sizzle9{
+    grid-area: 20 / 11 / 21 / 14;
+    margin-left: 20%;
+}
+#sizzle10{
+    grid-area: 19 / 10 / 20 / 14;
+    margin-left: 10%;
+}
+#sizzle11{
+    grid-area: 18 / 9 / 19 / 14;
+}
+#sizzle12{
+    grid-area: 17 / 10 / 18 / 14;
+    margin-left: 10%;
+}
+#sizzle13{
+    grid-area: 16 / 11 / 17 / 14;
+    margin-left: 20%;
+}
+#sizzle14{
+    grid-area: 15 / 11 / 16 / 14;
+    margin-left: 20%;
+}
+/* SIZZLES - MIDDLE */
+#sizzle15{
+    grid-area: 30 / 13 / 31 / 15;
+    margin-left: 30%;
+}
+#sizzle16{
+    grid-area: 29 / 13 / 30 / 15;
+    margin-left: 30%;
+}
+#sizzle17{
+    grid-area: 28 / 12 / 29 / 15;
+    margin-left: 30%;
+}
+#sizzle18{
+    grid-area: 27 / 12 / 28 / 15;
+    margin-left: 30%;
+}
+#sizzle19{
+    grid-area: 26 / 13 / 27 / 15;
+    margin-left: 30%;
+}
+#sizzle20{
+    grid-area: 25 / 12 / 26 / 15;
+    margin-left: 30%;
+}
+#sizzle21{
+    grid-area: 24 / 12 / 25 / 15;
+    margin-left: 30%;
+}
+#sizzle22{
+    grid-area: 23 / 11 / 24 / 15;
+    margin-left: 30%;
+}
+#sizzle23{
+    grid-area: 22 / 12 / 23 / 15;
+    margin-left: 30%;
+}
+#sizzle24{
+    grid-area: 21 / 12 / 22 / 15;
+    margin-left: 30%;
+}
+#sizzle25{
+    grid-area: 20 / 13 / 21 / 15;
+    margin-left: 30%;
+}
+#sizzle26{
+    grid-area: 19 / 12 / 20 / 15;
+    margin-left: 30%;
+}
+#sizzle27{
+    grid-area: 18 / 12 / 19 / 15;
+    margin-left: 30%;
+}
+#sizzle28{
+    grid-area: 17 / 11 / 18 / 15;
+    margin-left: 30%;
+}
+#sizzle29{
+    grid-area: 16 / 12 / 17 / 15;
+    margin-left: 30%;
+}
+#sizzle30{
+    grid-area: 15 / 13 / 16 / 15;
+    margin-left: 30%;
+}
+#sizzle31{
+    grid-area: 14 / 12 / 15 / 15;
+    margin-left: 30%;
+}
+#sizzle32{
+    grid-area: 13 / 11 / 14 / 15;
+    margin-left: 30%;
+}
+#sizzle33{
+    grid-area: 12 / 12 / 13 / 15;
+    margin-left: 30%;
+}
+#sizzle34{
+    grid-area: 11 / 13 / 12 / 15;
+    margin-left: 30%;
+}
+#sizzle35{
+    grid-area: 10 / 12 / 11 / 15;
+    margin-left: 30%;
+}
+#sizzle36{
+    grid-area: 9 / 11 / 10 / 15;
+    margin-left: 30%;
+}
