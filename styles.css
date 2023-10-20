@@ -1227,3 +1227,156 @@ body{
     margin-left: 2%;
 }
 
+/* WOOSH */
+.woosh{
+    justify-items: center;
+    align-items: center;
+    text-wrap: nowrap;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    z-index: 1;
+}
+
+/* WOOSH - CLOSEST TO PAN */
+#woosh1{
+    grid-area: 12 / 14 / 13 / 31;
+    margin-left: 2%;
+}
+#woosh2{
+    grid-area: 14 / 14 / 15 / 31;
+    margin-left: 2%;
+}
+#woosh3{
+    grid-area: 16 / 14 / 17 / 31;
+    margin-left: 2%;
+}
+#woosh4{
+    grid-area: 18 / 14 / 19 / 31;
+    margin-left: 2%;
+}
+#woosh5{
+    grid-area: 20 / 14 / 21 / 31;
+    margin-left: 2%;
+}
+#woosh6{
+    grid-area: 22 / 14 / 23 / 31;
+    margin-left: 2%;
+}
+#woosh7{
+    grid-area: 24 / 14 / 25 / 31;
+    margin-left: 2%;
+}
+/* WOOSH - MIDDLE */
+#woosh8{
+    grid-area: 11 / 6 / 12 / 31;
+    margin-left: 2%;
+}
+#woosh9{
+    grid-area: 13 / 6 / 14 / 31;
+    margin-left: 2%;
+}
+#woosh10{
+    grid-area: 15 / 6 / 16 / 31;
+    margin-left: 2%;
+}
+#woosh11{
+    grid-area: 17 / 6 / 18 / 31;
+    margin-left: 2%;
+}
+#woosh12{
+    grid-area: 19 / 6 / 20 / 31;
+    margin-left: 2%;
+}
+#woosh13{
+    grid-area: 21 / 6 / 22 / 31;
+    margin-left: 2%;
+}
+#woosh14{
+    grid-area: 23 / 6 / 24 / 31;
+    margin-left: 2%;
+}
+#woosh15{
+    grid-area: 12 / 6 / 13 / 28;
+    margin-left: 2%;
+}
+#woosh16{
+    grid-area: 14 / 6 / 15 / 28;
+    margin-left: 2%;
+}
+#woosh17{
+    grid-area: 16 / 6 / 17 / 28;
+    margin-left: 2%;
+}
+#woosh18{
+    grid-area: 18 / 6 / 19 / 28;
+    margin-left: 2%;
+}
+#woosh19{
+    grid-area: 20 / 6 / 21 / 28;
+    margin-left: 2%;
+}
+#woosh20{
+    grid-area: 22 / 6 / 23 / 28;
+    margin-left: 2%;
+}
+#woosh21{
+    grid-area: 24 / 6 / 25 / 28;
+    margin-left: 2%;
+}
+/* WOOSH - LEFT */
+#woosh22{
+    grid-area: 13 / 6 / 14 / 26;    
+    margin-left: 2%;
+}
+#woosh23{
+    grid-area: 15 / 6 / 16 / 26;    
+    margin-left: 2%;
+}
+#woosh24{
+    grid-area: 17 / 6 / 18 / 26;    
+    margin-left: 2%;
+}
+#woosh25{
+    grid-area: 19 / 6 / 20 / 26;    
+    margin-left: 2%;
+}
+#woosh26{
+    grid-area: 21 / 6 / 22 / 26;    
+    margin-left: 2%;
+}
+#woosh27{
+    grid-area: 23 / 6 / 24 / 26;    
+    margin-left: 2%;
+}
+#woosh28{
+    grid-area: 25 / 6 / 26 / 26;
+    margin-left: 2%;
+}
+#woosh29{
+    grid-area: 14 / 6 / 15 / 24;
+    margin-left: 2%;
+}
+#woosh30{
+    grid-area: 16 / 6 / 17 / 24;
+    margin-left: 2%;
+}
+#woosh31{
+    grid-area: 18 / 6 / 19 / 24;
+    margin-left: 2%;
+}
+#woosh32{
+    grid-area: 20 / 6 / 21 / 24;
+    margin-left: 2%;
+}
+#woosh33{
+    grid-area: 22 / 6 / 23 / 24;
+    margin-left: 2%;
+}
+#woosh34{
+    grid-area: 24 / 6 / 25 / 24;
+    margin-left: 2%;
+}
+#woosh35{
+    grid-area: 26 / 6 / 27 / 24;
+    margin-left: 2%;
+}
