@@ -285,35 +285,53 @@ body{
 #water-pan-24{
     grid-area: 4 / 38 / 5 / 39;
     padding-left: 45%;
+    animation: skew 2s infinite;
+    animation-direction: alternate;
 }
 #water-pan-25{
     grid-area: 5 / 38 / 6 / 39;
+    animation: skew2 2s infinite;
+    animation-direction: alternate;
 }
 #water-pan-26{
     grid-area: 6 / 38 / 7 / 39;
+    animation: skew2 2s infinite;
+    animation-direction: alternate;
 }
 #water-pan-27{
     grid-area: 7 / 38 / 8 / 39;
     padding-left: 90%;
+    animation: skew 2s infinite;
+    animation-direction: alternate;
 }
 #water-pan-28{
     grid-area: 15 / 39 / 16 / 40;
     padding-left: 90%;
+    animation: skew2 2s infinite;
+    animation-direction: alternate;
 }
 #water-pan-29{
     grid-area: 18 / 38 / 19 / 39;
     padding-left: 90%;
+    animation: skew 2s infinite;
+    animation-direction: alternate;
 }
 #water-pan-30{
     grid-area: 19 / 38 / 20 / 39;
     padding-left: 80%;
+    animation: skew2 2s infinite;
+    animation-direction: alternate;
 }
 #water-pan-31{
     grid-area: 20 / 38 / 21 / 39;
     padding-left: 70%;
+    animation: skew2 2s infinite;
+    animation-direction: alternate;
 }
 #water-pan-32{
     grid-area: 21 / 39 / 22 / 40;
+    animation: skew2 2s infinite;
+    animation-direction: alternate;
 }
 #water-pan-33{
     text-wrap: nowrap;
