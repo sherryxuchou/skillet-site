@@ -108,116 +108,178 @@ body{
     font-weight: bold;
     grid-area: 1 / 29 / 2 / 30;
     padding-left: 1%;
-    
+    animation: skew 2s infinite;
+    animation-direction: alternate;
 }
+@keyframes skew {
+    0% {
+      transform: skewX(30deg) translate(0);
+    }
+    100% {
+      transform: skewX(-30deg) translate(-40px);
+    }
+  }
 #water-pan-2{
     font-weight: bold;
     grid-area: 2 / 29 / 3 / 30;
     padding-left: 40%;
+    animation: skew2 2s infinite;
+    animation-direction: alternate;
 }
+@keyframes skew2 {
+    0% {
+      transform: skewX(-40deg) translate(0);
+    }
+    100% {
+      transform: skewX(40deg) translate(40px);
+    }
+  }
 #water-pan-3{
     font-weight: bold;
     grid-area: 3 / 29 / 4 / 30;
     padding-left: 35%;
+    animation: skew 2s infinite;
+    animation-direction: alternate;
 }
 #water-pan-4{
     font-weight: bold;
     grid-area: 4 / 29 / 5 / 30;
     padding-left: 40%;
+    animation: skew2 2s infinite;
+    animation-direction: alternate;
 }
 #water-pan-5{
     font-weight: bold;
     grid-area: 5 / 29 / 6 / 30;
     padding-left: 75%;
+    animation: skew 2s infinite;
+    animation-direction: alternate;
 }
 #water-pan-6{
     font-weight: bold;
     grid-area: 6 / 29 / 7 / 30;
     padding-left: 35%;
+    animation: skew2 2s infinite;
+    animation-direction: alternate;
 }
 #water-pan-7{
     font-weight: bold;
     grid-area: 7 / 29 / 8 / 30;
     padding-left: 70%;
+    animation: skew 2s infinite;
+    animation-direction: alternate;
 }
 #water-pan-8{
     font-weight: bold;
     grid-area: 8 / 29 / 9 / 30;
     padding-left: 65%;
+    animation: skew2 2s infinite;
+    animation-direction: alternate;
 }
 #water-pan-9{
     font-weight: bold;
     grid-area: 9 / 29 / 10 / 30;
     padding-left: 80%;
+    animation: skew 2s infinite;
+    animation-direction: alternate;
 }
 #water-pan-10{
     font-weight: bold;
     grid-area: 10 / 29 / 11 / 30;
     padding-left: 90%;
+    animation: skew2 2s infinite;
+    animation-direction: alternate;
 }
 #water-pan-11{
     font-weight: bold;
     grid-area: 11 / 29 / 12 / 30;
     padding-left: 60%;
-}#water-pan-12{
+    animation: skew 2s infinite;
+    animation-direction: alternate;
+}
+#water-pan-12{
     font-weight: bold;
     grid-area: 12 / 29 / 13 / 30;
     padding-left: 110%;
+    animation: skew2 2s infinite;
+    animation-direction: alternate;
 }
 #water-pan-13{
     font-weight: bold;
     grid-area: 13 / 29 / 14 / 30;
     padding-left: 110%;
+    animation: skew 2s infinite;
+    animation-direction: alternate;
 }
 #water-pan-14{
     font-weight: bold;
     grid-area: 14 / 29 / 15 / 30;
     padding-left: 130%;
+    animation: skew2 2s infinite;
+    animation-direction: alternate;
 }
 #water-pan-15{
     font-weight: bold;
     grid-area: 15 / 29 / 16 / 30;
     padding-left: 70%;
+    animation: skew 2s infinite;
+    animation-direction: alternate;
 }
 #water-pan-16{
     font-weight: bold;
     grid-area: 16 / 29 / 17 / 30;
     padding-left: 80%;
+    animation: skew2 2s infinite;
+    animation-direction: alternate;
 }
 #water-pan-17{
     font-weight: bold;
     grid-area: 17 / 29 / 18 / 30;
     padding-left: 80%;
+    animation: skew 2s infinite;
+    animation-direction: alternate;
 }
 #water-pan-18{
     font-weight: bold;
     grid-area: 18 / 29 / 19 / 30;
     padding-left: 70%;
+    animation: skew2 2s infinite;
+    animation-direction: alternate;
 }
 #water-pan-19{
     font-weight: bold;
     grid-area: 19 / 29 / 20 / 30;
     padding-left: 100%;
+    animation: skew 2s infinite;
+    animation-direction: alternate;
 }
 #water-pan-20{
     font-weight: bold;
     grid-area: 20 / 29 / 21 / 30;
     padding-left: 60%;
+    animation: skew2 2s infinite;
+    animation-direction: alternate;
 }
 #water-pan-21{
     font-weight: bold;
     grid-area: 21 / 29 / 22 / 30;
     padding-left: 60%;
+    animation: skew 2s infinite;
+    animation-direction: alternate;
 }
 #water-pan-22{
     font-weight: bold;
     grid-area: 22 / 29 / 23 / 30;
     padding-left: 55%;
+    animation: skew2 2s infinite;
+    animation-direction: alternate;
 }
 #water-pan-23{
     font-weight: bold;
     grid-area: 23 / 29 / 24 / 30;
     padding-left: 75%;
+    animation: skew 2s infinite;
+    animation-direction: alternate;
 }
 /* water outside of pan - RIGHT side */
 #water-pan-24{
