@@ -107,8 +107,9 @@ body {
   font-weight: bold;
   grid-area: 1 / 29 / 2 / 30;
   padding-left: 1%;
-  animation: skew 1.5s ease-in-out infinite;
+  animation: skew 1.75s ease-in-out infinite;
   animation-direction: alternate;
+  animation-delay: .5s;
 }
 @keyframes skew {
   0% {
@@ -125,7 +126,7 @@ body {
   font-weight: bold;
   grid-area: 2 / 29 / 3 / 30;
   padding-left: 40%;
-  animation: skew2 1.5s ease-in-out infinite;
+  animation: skew2 2s ease-in-out infinite;
   animation-direction: alternate;
 }
 @keyframes skew2 {
@@ -143,148 +144,161 @@ body {
   font-weight: bold;
   grid-area: 3 / 29 / 4 / 30;
   padding-left: 35%;
-  animation: skew 1.5s ease-in-out infinite;
+  animation: skew 1.75s ease-in-out infinite;
   animation-direction: alternate;
+  animation-delay: .5s;
+
 }
 #water-pan-4 {
   font-weight: bold;
   grid-area: 4 / 29 / 5 / 30;
   padding-left: 40%;
-  animation: skew2 1.5s ease-in-out infinite;
+  animation: skew2 2s ease-in-out infinite;
   animation-direction: alternate;
 }
 #water-pan-5 {
   font-weight: bold;
   grid-area: 5 / 29 / 6 / 30;
   padding-left: 75%;
-  animation: skew 1.5s ease-in-out infinite;
+  animation: skew 1.75s ease-in-out infinite;
   animation-direction: alternate;
+  animation-delay: .5s;
+
 }
 #water-pan-6 {
   font-weight: bold;
   grid-area: 6 / 29 / 7 / 30;
   padding-left: 35%;
-  animation: skew2 1.5s ease-in-out infinite;
+  animation: skew2 2s ease-in-out infinite;
   animation-direction: alternate;
 }
 #water-pan-7 {
   font-weight: bold;
   grid-area: 7 / 29 / 8 / 30;
   padding-left: 70%;
-  animation: skew 1.5s ease-in-out infinite;
+  animation: skew 1.75s ease-in-out infinite;
   animation-direction: alternate;
+  animation-delay: .5s;
 }
 #water-pan-8 {
   font-weight: bold;
   grid-area: 8 / 29 / 9 / 30;
   padding-left: 65%;
-  animation: skew2 1.5s ease-in-out infinite;
+  animation: skew2 2s ease-in-out infinite;
   animation-direction: alternate;
 }
 #water-pan-9 {
   font-weight: bold;
   grid-area: 9 / 29 / 10 / 30;
   padding-left: 80%;
-  animation: skew 1.5s ease-in-out infinite;
+  animation: skew 1.75s ease-in-out infinite;
   animation-direction: alternate;
+  animation-delay: .5s;
 }
 #water-pan-10 {
   font-weight: bold;
   grid-area: 10 / 29 / 11 / 30;
   padding-left: 90%;
-  animation: skew2 1.5s ease-in-out infinite;
+  animation: skew2 2s ease-in-out infinite;
   animation-direction: alternate;
 }
 #water-pan-11 {
   font-weight: bold;
   grid-area: 11 / 29 / 12 / 30;
   padding-left: 60%;
-  animation: skew 1.5s ease-in-out infinite;
+  animation: skew 1.75s ease-in-out infinite;
   animation-direction: alternate;
+  animation-delay: .5s;
 }
 #water-pan-12 {
   font-weight: bold;
   grid-area: 12 / 29 / 13 / 30;
   padding-left: 110%;
-  animation: skew2 1.5s ease-in-out infinite;
+  animation: skew2 2s ease-in-out infinite;
   animation-direction: alternate;
 }
 #water-pan-13 {
   font-weight: bold;
   grid-area: 13 / 29 / 14 / 30;
   padding-left: 110%;
-  animation: skew 1.5s ease-in-out infinite;
+  animation: skew 1.75s ease-in-out infinite;
   animation-direction: alternate;
+  animation-delay: .5s;
 }
 #water-pan-14 {
   font-weight: bold;
   grid-area: 14 / 29 / 15 / 30;
   padding-left: 130%;
-  animation: skew2 1.5s ease-in-out infinite;
+  animation: skew2 2s ease-in-out infinite;
   animation-direction: alternate;
 }
 #water-pan-15 {
   font-weight: bold;
   grid-area: 15 / 29 / 16 / 30;
   padding-left: 70%;
-  animation: skew 1.5s ease-in-out infinite;
+  animation: skew 1.75s ease-in-out infinite;
   animation-direction: alternate;
+  animation-delay: .5s;
 }
 #water-pan-16 {
   font-weight: bold;
   grid-area: 16 / 29 / 17 / 30;
   padding-left: 80%;
-  animation: skew2 1.5s ease-in-out infinite;
+  animation: skew2 2s ease-in-out infinite;
   animation-direction: alternate;
 }
 #water-pan-17 {
   font-weight: bold;
   grid-area: 17 / 29 / 18 / 30;
   padding-left: 80%;
-  animation: skew 1.5s ease-in-out infinite;
+  animation: skew 1.75s ease-in-out infinite;
   animation-direction: alternate;
+  animation-delay: .5s;
 }
 #water-pan-18 {
   font-weight: bold;
   grid-area: 18 / 29 / 19 / 30;
   padding-left: 70%;
-  animation: skew2 1.5s ease-in-out infinite;
+  animation: skew2 2s ease-in-out infinite;
   animation-direction: alternate;
 }
 #water-pan-19 {
   font-weight: bold;
   grid-area: 19 / 29 / 20 / 30;
   padding-left: 100%;
-  animation: skew 1.5s ease-in-out infinite;
+  animation: skew 1.75s ease-in-out infinite;
   animation-direction: alternate;
+  animation-delay: .5s;
 }
 #water-pan-20 {
   font-weight: bold;
   grid-area: 20 / 29 / 21 / 30;
   padding-left: 60%;
-  animation: skew2 1.5s ease-in-out infinite;
+  animation: skew2 2s ease-in-out infinite;
   animation-direction: alternate;
 }
 #water-pan-21 {
   font-weight: bold;
   grid-area: 21 / 29 / 22 / 30;
   padding-left: 60%;
-  animation: skew 1.5s ease-in-out infinite;
+  animation: skew 1.75s ease-in-out infinite;
   animation-direction: alternate;
+  animation-delay: .5s;
 }
 #water-pan-22 {
   font-weight: bold;
   grid-area: 22 / 29 / 23 / 30;
   padding-left: 55%;
-  animation: skew2 1.5s ease-in-out infinite;
+  animation: skew2 2s ease-in-out infinite;
   animation-direction: alternate;
 }
 #water-pan-23 {
   font-weight: bold;
   grid-area: 23 / 29 / 24 / 30;
   padding-left: 75%;
-  animation: skew 1.5s ease-in-out infinite;
+  animation: skew 1.75s ease-in-out infinite;
   animation-direction: alternate;
+  animation-delay: .5s;
 }
 /* water outside of pan - RIGHT side */
 #water-pan-24 {
@@ -589,76 +603,137 @@ body {
 #heat1 {
   grid-area: 8 / 23 / 9 / 25;
   padding-left: 300%;
+  animation: heat 2s ease-in-out infinite;
 }
+
 #heat2 {
   grid-area: 9 / 23 / 10 / 25;
   padding-left: 90%;
+  animation: heat 2s ease-in-out infinite;
 }
 #heat3 {
   grid-area: 10 / 19 / 11 / 25;
+  animation: heat 2s ease-in-out infinite;
 }
 #heat4 {
   grid-area: 11 / 15 / 12 / 25;
+  animation: heat 2s ease-in-out infinite;
+  animation-delay: 200ms;
 }
 #heat5 {
   grid-area: 12 / 15 / 13 / 25;
+  animation: heat 2s ease-in-out infinite;
+  animation-delay: 200ms;
 }
 #heat6 {
   grid-area: 13 / 12 / 14 / 25;
+  animation: heat 2s ease-in-out infinite;
+  animation-delay: 200ms;
 }
 #heat7 {
   grid-area: 14 / 13 / 15 / 25;
+  animation: heat 2s ease-in-out infinite;
+  animation-delay: 300ms;
 }
 #heat8 {
   grid-area: 15 / 12 / 16 / 25;
+  animation: heat 2s ease-in-out infinite;
+  animation-delay: 300ms;
 }
 #heat9 {
   grid-area: 16 / 9 / 17 / 25;
+  animation: heat 2s ease-in-out infinite;
+  animation-delay: 300ms;
 }
 #heat10 {
   grid-area: 17 / 7 / 18 / 25;
+  animation: heat 2s ease-in-out infinite;
+  animation-delay: 400ms;
 }
 #heat11 {
   grid-area: 18 / 5 / 19 / 25;
+  animation: heat 2s ease-in-out infinite;
+  animation-delay: 400ms;
 }
 #heat12 {
   grid-area: 19 / 5 / 20 / 25;
+  animation: heat 2s ease-in-out infinite;
+  animation-delay: 400ms;
 }
 #heat13 {
-  grid-area: 20 / 6 / 21 / 25;
+  grid-area: 20 / 6 / 21 / 25;  
+  animation: heat 2s ease-in-out infinite;
+  animation-delay: 500ms;
 }
 #heat14 {
   grid-area: 21 / 7 / 22 / 25;
+  animation: heat 2s ease-in-out infinite;
+  animation-delay: 500ms;
 }
 #heat15 {
   grid-area: 22 / 10 / 23 / 25;
+  animation: heat 2s ease-in-out infinite;
+  animation-delay: 500ms;
 }
 #heat16 {
   grid-area: 23 / 12 / 24 / 25;
+  animation: heat 2s ease-in-out infinite;
+  animation-delay: 600ms;
 }
 #heat17 {
   grid-area: 24 / 14 / 25 / 25;
+  animation: heat 2s ease-in-out infinite;
+  animation-delay: 600ms;
 }
 #heat18 {
   grid-area: 25 / 14 / 26 / 25;
+  animation: heat 2s ease-in-out infinite;
+  animation-delay: 600ms;
 }
 #heat19 {
   grid-area: 26 / 22 / 27 / 25;
+  animation: heat 2s ease-in-out infinite;
+  animation-delay: 700ms;
 }
 #heat20 {
   grid-area: 27 / 22 / 28 / 25;
+  animation: heat 2s ease-in-out infinite;
+  animation-delay: 700ms;
 }
 #heat21 {
   grid-area: 28 / 23 / 29 / 25;
   padding-left: 150%;
+  animation: heat 2s ease-in-out infinite;
+  animation-delay: 700ms;
 }
 #heat22 {
   grid-area: 29 / 23 / 30 / 25;
   padding-left: 330%;
+  animation: heat 2s ease-in-out infinite;
+  animation-delay: 800ms;
 }
 #heat23 {
   grid-area: 30 / 23 / 31 / 25;
   padding-left: 500%;
+  animation: heat 2s ease-in-out infinite;
+  animation-delay: 800ms;
+}
+
+@keyframes heat{
+    0%{
+        transform: scale(0) translate(0px);
+        color: yellow;
+        opacity: 20%;
+    }
+    50%{
+        color: orange;
+        opacity: 100%;
+    }
+    100%{
+        transform: scale(100%) translate(-50px);
+        color: red;
+        opacity: 5%;
+    }
 }
 
 /* OIL */
@@ -674,51 +749,86 @@ body {
 
 #oil1 {
   grid-area: 10 / 24 / 11 / 27;
+  animation: shake .25s infinite;
 }
+
 #oil2 {
   grid-area: 11 / 24 / 12 / 27;
+  animation: shake .25s infinite;
 }
 #oil3 {
   grid-area: 12 / 24 / 13 / 27;
+  animation: shake .25s infinite;
 }
 #oil4 {
   grid-area: 13 / 24 / 14 / 27;
+  animation: shake .25s infinite;
 }
 #oil5 {
   grid-area: 14 / 24 / 15 / 27;
+  animation: shake .25s infinite;
 }
 #oil6 {
   grid-area: 15 / 24 / 16 / 27;
+  animation: shake .25s infinite;
 }
 #oil7 {
   grid-area: 16 / 24 / 17 / 27;
+  animation: shake .25s infinite;
 }
 #oil8 {
   grid-area: 17 / 24 / 18 / 27;
+  animation: shake .25s infinite;
 }
 #oil9 {
   grid-area: 18 / 24 / 19 / 27;
+  animation: shake .25s infinite;
 }
 #oil10 {
   grid-area: 19 / 24 / 20 / 27;
+  animation: shake .25s infinite;
 }
 #oil11 {
   grid-area: 20 / 24 / 21 / 27;
+  animation: shake .25s infinite;
 }
 #oil12 {
   grid-area: 21 / 24 / 22 / 27;
+  animation: shake .25s infinite;
 }
 #oil13 {
   grid-area: 22 / 24 / 23 / 27;
+  animation: shake .25s infinite;
 }
 #oil14 {
   grid-area: 23 / 24 / 24 / 27;
+  animation: shake .25s infinite;
 }
 #oil15 {
   grid-area: 24 / 24 / 25 / 27;
+  animation: shake .25s infinite;
 }
 #oil16 {
   grid-area: 25 / 24 / 26 / 27;
+  animation: shake .25s infinite;
+}
+
+@keyframes shake{
+    0% { 
+        transform: translate(0, 0) rotate(0deg); 
+    }
+    25% { 
+        transform: translate(5px, 5px) rotate(5deg); 
+    }
+    50% { 
+        transform: translate(0, 0) rotate(0eg); 
+    }
+    75% { 
+        transform: translate(-5px, 5px) rotate(-5deg); 
+    }
+    100% { 
+        transform: translate(0, 0) rotate(0deg); 
+    }
 }
 
 /* COOL */
@@ -735,167 +845,269 @@ body {
 
 #cool1 {
   grid-area: 8 / 25 / 9 / 30;
+  animation: cool 2s ease-in-out infinite;
+  animation-delay: 2000ms;
 }
 #cool2 {
   grid-area: 8 / 29 / 9 / 40;
+  animation: cool 2s ease-in-out infinite;
+  animation-delay: 2000ms;
 }
 #cool3 {
   grid-area: 9 / 25 / 10 / 30;
+  animation: cool 2s ease-in-out infinite;
+  animation-delay: 2000ms;
 }
 #cool4 {
   grid-area: 9 / 27 / 10 / 40;
   padding-left: 5%;
+  animation: cool 2s ease-in-out infinite;
+  animation-delay: 2000ms;
 }
 #cool5 {
   grid-area: 10 / 26 / 11 / 30;
   padding-left: 60%;
+  animation: cool 2s ease-in-out infinite;
+  animation-delay: 2000ms;
 }
 #cool6 {
   grid-area: 10 / 34 / 11 / 40;
+  animation: cool 2s ease-in-out infinite;
+  animation-delay: 2000ms;
 }
 #cool7 {
   grid-area: 11 / 23 / 12 / 40;
   padding-left: 8%;
+  animation: cool 2s ease-in-out infinite;
+  animation-delay: 1800ms;
 }
 #cool8 {
   grid-area: 11 / 31 / 12 / 41;
+  animation: cool 2s ease-in-out infinite;
+  animation-delay: 1800ms;
 }
 #cool9 {
   grid-area: 12 / 24 / 13 / 40;
   padding-left: 3%;
+  animation: cool 2s ease-in-out infinite;
+  animation-delay: 1800ms;
 }
 #cool10 {
   grid-area: 12 / 31 / 13 / 40;
+  animation: cool 2s ease-in-out infinite;
+  animation-delay: 1800ms;
 }
 #cool11 {
   grid-area: 13 / 25 / 14 / 40;
   padding-left: 3%;
+  animation: cool 2s ease-in-out infinite;
+  animation-delay: 1600ms;
 }
 #cool12 {
   grid-area: 13 / 31 / 14 / 40;
+  animation: cool 2s ease-in-out infinite;
+  animation-delay: 1600ms;
 }
 #cool13 {
   grid-area: 14 / 25 / 15 / 40;
   padding-left: 3%;
+  animation: cool 2s ease-in-out infinite;
+  animation-delay: 1600ms;
 }
 #cool14 {
   grid-area: 14 / 31 / 15 / 40;
+  animation: cool 2s ease-in-out infinite;
+  animation-delay: 1600ms;
 }
 #cool15 {
   grid-area: 15 / 25 / 16 / 40;
   padding-left: 3%;
+  animation: cool 2s ease-in-out infinite;
+  animation-delay: 1400ms;
 }
 #cool16 {
   grid-area: 15 / 31 / 16 / 40;
+  animation: cool 2s ease-in-out infinite;
+  animation-delay: 1400ms;
 }
 #cool17 {
   grid-area: 16 / 25 / 17 / 40;
   padding-left: 7%;
+  animation: cool 2s ease-in-out infinite;
+  animation-delay: 1400ms;
 }
 #cool18 {
   grid-area: 17 / 25 / 18 / 40;
   padding-left: 7%;
+  animation: cool 2s ease-in-out infinite;
+  animation-delay: 1400ms;
 }
 #cool19 {
   grid-area: 18 / 25 / 19 / 40;
   padding-left: 7%;
+  animation: cool 2s ease-in-out infinite;
+  animation-delay: 1200ms;
 }
 #cool20 {
   grid-area: 19 / 25 / 20 / 40;
   padding-left: 7%;
+  animation: cool 2s ease-in-out infinite;
+  animation-delay: 1200ms;
 }
 #cool21 {
   grid-area: 20 / 25 / 21 / 40;
   padding-left: 7%;
+  animation: cool 2s ease-in-out infinite;
+  animation-delay: 1200ms;
 }
 #cool22 {
   grid-area: 21 / 25 / 22 / 40;
   padding-left: 12%;
+  animation: cool 2s ease-in-out infinite;
+  animation-delay: 1000ms;
 }
 #cool23 {
   grid-area: 22 / 25 / 23 / 40;
   padding-left: 21%;
+  animation: cool 2s ease-in-out infinite;
+  animation-delay: 1000ms;
 }
 #cool24 {
   grid-area: 23 / 25 / 24 / 40;
   padding-left: 21%;
+  animation: cool 2s ease-in-out infinite;
+  animation-delay: 1000ms;
 }
 #cool25 {
   grid-area: 24 / 25 / 25 / 40;
   padding-left: 21%;
+  animation: cool 2s ease-in-out infinite;
+  animation-delay: 800ms;
 }
 #cool26 {
   grid-area: 25 / 25 / 26 / 40;
   padding-left: 2%;
+  animation: cool 2s ease-in-out infinite;
+  animation-delay: 800ms;
 }
 #cool27 {
   grid-area: 25 / 34 / 26 / 40;
+  animation: cool 2s ease-in-out infinite;
+  animation-delay: 800ms;
 }
 #cool28 {
   grid-area: 26 / 16 / 27 / 40;
   padding-left: 2%;
+  animation: cool 2s ease-in-out infinite;
+  animation-delay: 800ms;
 }
 #cool29 {
   grid-area: 26 / 26 / 27 / 40;
   padding-left: 7%;
+  animation: cool 2s ease-in-out infinite;
+  animation-delay: 800ms;
 }
 #cool30 {
   grid-area: 26 / 37 / 27 / 40;
+  animation: cool 2s ease-in-out infinite;
+  animation-delay: 800ms;
 }
 #cool31 {
   grid-area: 27 / 16 / 28 / 40;
+  animation: cool 2s ease-in-out infinite;
+  animation-delay: 600ms;
 }
 #cool32 {
   grid-area: 27 / 25 / 28 / 40;
   padding-left: 26%;
+  animation: cool 2s ease-in-out infinite;
+  animation-delay: 600ms;
 }
 #cool33 {
   grid-area: 28 / 15 / 29 / 40;
   padding-left: 2%;
+  animation: cool 2s ease-in-out infinite;
+  animation-delay: 600ms;
 }
 #cool34 {
   grid-area: 28 / 25 / 29 / 40;
   padding-left: 22%;
+  animation: cool 2s ease-in-out infinite;
+  animation-delay: 600ms;
 }
 #cool35 {
   grid-area: 29 / 15 / 30 / 40;
   padding-left: 2%;
+  animation: cool 2s ease-in-out infinite;
+  animation-delay: 400ms;
 }
 #cool36 {
   grid-area: 29 / 25 / 30 / 40;
   padding-left: 22%;
+  animation: cool 2s ease-in-out infinite;
+  animation-delay: 400ms;
 }
 #cool37 {
   grid-area: 30 / 17 / 31 / 40;
   padding-left: 2%;
+  animation: cool 2s ease-in-out infinite;
+  animation-delay: 400ms;
 }
 #cool38 {
   grid-area: 30 / 25 / 31 / 40;
   padding-left: 19%;
+  animation: cool 2s ease-in-out infinite;
+  animation-delay: 400ms;
 }
 #cool39 {
   grid-area: 31 / 17 / 32 / 40;
   padding-left: 2%;
+  animation: cool 2s ease-in-out infinite;
+  animation-delay: 200ms;
 }
 #cool40 {
   grid-area: 31 / 25 / 32 / 40;
   padding-left: 19%;
+  animation: cool 2s ease-in-out infinite;
+  animation-delay: 200ms;
 }
 #cool41 {
   grid-area: 32 / 19 / 33 / 40;
   padding-left: 2%;
+  animation: cool 2s ease-in-out infinite;
+  animation-delay: 200ms;
 }
 #cool42 {
   grid-area: 33 / 19 / 34 / 40;
   padding-left: 2%;
+  animation: cool 2s ease-in-out infinite;
 }
 #cool43 {
   grid-area: 34 / 21 / 35 / 40;
   padding-left: 2%;
+  animation: cool 2s ease-in-out infinite;
 }
 #cool44 {
   grid-area: 35 / 23 / 36 / 40;
   padding-left: 2%;
+  animation: cool 2s ease-in-out infinite;
+}
+
+@keyframes cool{
+    0%{
+        transform: scale(0) translateY(0);
+        color: #87CEEB;
+        opacity: 20%;
+    }
+    50%{
+        color: #0096FF;
+        opacity: 100%;
+    }
+    100%{
+        transform: scale(100%) translateY(20px);
+        color: blue;
+        opacity: 5%;
+    }
 }
 
 /* START OF THIRD LAYOUT */
@@ -1021,178 +1233,305 @@ body {
 #sizzle1 {
   grid-area: 29 / 12 / 30 / 14;
   margin-left: 10%;
+  animation: sizzle1 3s ease-in-out infinite;
 }
+
 #sizzle2 {
   grid-area: 28 / 11 / 29 / 14;
   margin-left: 20%;
+  animation: sizzle1 3s ease-in-out infinite;
+  animation-delay: 100ms;
 }
 #sizzle3 {
   grid-area: 27 / 11 / 28 / 14;
   margin-left: 20%;
+  animation: sizzle1 3s ease-in-out infinite;
+  animation-delay: 300ms;
 }
 #sizzle4 {
   grid-area: 26 / 12 / 27 / 14;
   margin-left: 10%;
+  animation: sizzle1 3s ease-in-out infinite;
+  animation-delay: 500ms;
 }
 #sizzle5 {
   grid-area: 25 / 11 / 24 / 14;
   margin-left: 20%;
+  animation: sizzle2 3s ease-in-out infinite;
+  animation-delay: 700ms;
 }
+
 #sizzle6 {
   grid-area: 23 / 10 / 24 / 14;
   margin-left: 10%;
+  animation: sizzle2 3s ease-in-out infinite;
+  animation-delay: 900ms;
 }
 #sizzle7 {
   grid-area: 22 / 10 / 23 / 14;
   margin-left: 10%;
+  animation: sizzle2 3s ease-in-out infinite;
+  animation-delay: 1100ms;
 }
 #sizzle8 {
   grid-area: 21 / 10 / 22 / 14;
   margin-left: 10%;
+  animation: sizzle2 3s ease-in-out infinite;
+  animation-delay: 1300ms;
 }
 #sizzle9 {
   grid-area: 20 / 11 / 21 / 14;
   margin-left: 20%;
+  animation: sizzle2 3s ease-in-out infinite;
+  animation-delay: 1500ms;
 }
 #sizzle10 {
   grid-area: 19 / 10 / 20 / 14;
   margin-left: 10%;
+  animation: sizzle2 3s ease-in-out infinite;
+  animation-delay: 1700ms;
 }
 #sizzle11 {
   grid-area: 18 / 9 / 19 / 14;
+  animation: sizzle2 3s ease-in-out infinite;
+  animation-delay: 1900ms;
 }
 #sizzle12 {
   grid-area: 17 / 10 / 18 / 14;
   margin-left: 10%;
+  animation: sizzle2 3s ease-in-out infinite;
+  animation-delay: 2100ms;
+
 }
 #sizzle13 {
   grid-area: 16 / 11 / 17 / 14;
   margin-left: 20%;
+  animation: sizzle2 3s ease-in-out infinite;
+  animation-delay: 2300ms;
 }
 #sizzle14 {
   grid-area: 15 / 11 / 16 / 14;
-  margin-left: 20%;
+  margin-left: 20%;  
+  animation: sizzle2 3s ease-in-out infinite;
+  animation-delay: 2500ms;
 }
 /* SIZZLES - MIDDLE */
 #sizzle15 {
   grid-area: 30 / 13 / 31 / 15;
   margin-left: 30%;
+  animation: sizzle1 3s ease-in-out infinite;
 }
 #sizzle16 {
   grid-area: 29 / 13 / 30 / 15;
   margin-left: 30%;
+  animation: sizzle1 3s ease-in-out infinite;
+  animation-delay: 100ms;
 }
 #sizzle17 {
   grid-area: 28 / 12 / 29 / 15;
   margin-left: 30%;
+  animation: sizzle1 3s ease-in-out infinite;
+  animation-delay: 200ms;
 }
 #sizzle18 {
   grid-area: 27 / 12 / 28 / 15;
   margin-left: 30%;
+  animation: sizzle1 3s ease-in-out infinite;
+  animation-delay: 300ms;
 }
 #sizzle19 {
   grid-area: 26 / 13 / 27 / 15;
   margin-left: 30%;
+  animation: sizzle1 3s ease-in-out infinite;
+  animation-delay: 400ms;
 }
 #sizzle20 {
   grid-area: 25 / 12 / 26 / 15;
   margin-left: 30%;
+  animation: sizzle2 3s ease-in-out infinite;
+  animation-delay: 500ms;
 }
 #sizzle21 {
   grid-area: 24 / 12 / 25 / 15;
   margin-left: 30%;
+  animation: sizzle2 3s ease-in-out infinite;
+  animation-delay: 600ms;
 }
 #sizzle22 {
   grid-area: 23 / 11 / 24 / 15;
   margin-left: 30%;
+  animation: sizzle2 3s ease-in-out infinite;
+  animation-delay: 700ms;
 }
 #sizzle23 {
   grid-area: 22 / 12 / 23 / 15;
   margin-left: 30%;
+  animation: sizzle2 3s ease-in-out infinite;
+  animation-delay: 800ms;
 }
 #sizzle24 {
   grid-area: 21 / 12 / 22 / 15;
   margin-left: 30%;
+  animation: sizzle2 3s ease-in-out infinite;
+  animation-delay: 900ms;
 }
 #sizzle25 {
   grid-area: 20 / 13 / 21 / 15;
   margin-left: 30%;
+  animation: sizzle2 3s ease-in-out infinite;
+  animation-delay: 1000ms;
 }
 #sizzle26 {
   grid-area: 19 / 12 / 20 / 15;
   margin-left: 30%;
+  animation: sizzle2 3s ease-in-out infinite;
+  animation-delay: 1100ms;
 }
 #sizzle27 {
   grid-area: 18 / 12 / 19 / 15;
   margin-left: 30%;
+  animation: sizzle2 3s ease-in-out infinite;
+  animation-delay: 1200ms;
 }
 #sizzle28 {
   grid-area: 17 / 11 / 18 / 15;
   margin-left: 30%;
+  animation: sizzle2 3s ease-in-out infinite;
+  animation-delay: 1300ms;
 }
 #sizzle29 {
   grid-area: 16 / 12 / 17 / 15;
   margin-left: 30%;
+  animation: sizzle2 3s ease-in-out infinite;
+  animation-delay: 1400ms;
 }
 #sizzle30 {
   grid-area: 15 / 13 / 16 / 15;
   margin-left: 30%;
+  animation: sizzle2 3s ease-in-out infinite;
+  animation-delay: 1500ms;
 }
 #sizzle31 {
   grid-area: 14 / 12 / 15 / 15;
   margin-left: 30%;
+  animation: sizzle2 3s ease-in-out infinite;
+  animation-delay: 1600ms;
 }
 #sizzle32 {
   grid-area: 13 / 11 / 14 / 15;
   margin-left: 30%;
+  animation: sizzle2 3s ease-in-out infinite;
+  animation-delay: 1700ms;
 }
 #sizzle33 {
   grid-area: 12 / 12 / 13 / 15;
   margin-left: 30%;
+  animation: sizzle2 3s ease-in-out infinite;
+  animation-delay: 1800ms;
 }
 #sizzle34 {
   grid-area: 11 / 13 / 12 / 15;
   margin-left: 30%;
+  animation: sizzle2 3s ease-in-out infinite;
+  animation-delay: 1900ms;
 }
 #sizzle35 {
   grid-area: 10 / 12 / 11 / 15;
   margin-left: 30%;
+  animation: sizzle2 3s ease-in-out infinite;
+  animation-delay: 2000ms;
 }
 #sizzle36 {
   grid-area: 9 / 11 / 10 / 15;
   margin-left: 30%;
+  animation: sizzle2 3s ease-in-out infinite;
+  animation-delay: 2100ms;
 }
-/* SIZZLES - RIGHTE */
+/* SIZZLES - RIGHT */
 #sizzle37 {
   grid-area: 29 / 13 / 30 / 18;
+  animation: sizzle1 3s ease-in-out infinite;
 }
 #sizzle38 {
   grid-area: 28 / 14 / 29 / 17;
   margin-left: 25%;
+  animation: sizzle1 3s ease-in-out infinite;
+  animation-delay: 100ms;
 }
 #sizzle39 {
   grid-area: 27 / 15 / 28 / 17;
   margin-left: 25%;
+  animation: sizzle1 3s ease-in-out infinite;
+  animation-delay: 200ms;
 }
 #sizzle40 {
   grid-area: 26 / 14 / 27 / 17;
   margin-left: 25%;
+  animation: sizzle2 3s ease-in-out infinite;
+  animation-delay: 300ms;
 }
 #sizzle41 {
   grid-area: 25 / 14 / 26 / 17;
   margin-left: 25%;
+  animation: sizzle2 3s ease-in-out infinite;
+  animation-delay: 400ms;
 }
 #sizzle42 {
   grid-area: 24 / 15 / 25 / 17;
   margin-left: 25%;
+  animation: sizzle2 3s ease-in-out infinite;
+  animation-delay: 500ms;
 }
 #sizzle43 {
   grid-area: 23 / 15 / 24 / 17;
   margin-left: 25%;
+  animation: sizzle2 3s ease-in-out infinite;
+  animation-delay: 600ms;
 }
 #sizzle44 {
   grid-area: 22 / 14 / 23 / 17;
   margin-left: 25%;
+  animation: sizzle2 3s ease-in-out infinite;
+  animation-delay: 700ms;
+}
+
+@keyframes sizzle1{
+    0%{
+        transform: translateX(0px) translateY(0px);
+    }
+    25% {
+        transform: translateX(10px) translateY(-5px); 
+    }
+    50%{
+        transform: translateX(-5px) translateY(-10px);
+    }
+    75% { 
+        transform: translateX(10px) translateY(-15px); 
+    }
+    100%{
+        transform: translate(0px) translateY(-20px);
+    }
+}
+
+@keyframes sizzle2{
+    0%{
+        transform: translateX(0px) translateY(0px);
+        opacity: 100%;
+    }
+    25% {
+        transform: translateX(10px) translateY(-5px); 
+    }
+    50%{
+        transform: translateX(-5px) translateY(-10px);
+        opacity: 50%;
+    }
+    75% { 
+        transform: translateX(10px) translateY(-15px); 
+    }
+    100%{
+        transform: translate(0px) translateY(-20px);
+        opacity: 0%;
+    }
 }
 
 /* HEAT */
@@ -1208,12 +1547,36 @@ body {
 
 #pan3-heat1 {
   grid-area: 36 / 9 / 37 / 18;
+  animation: heat2 2s ease-in-out infinite;
 }
 #pan3-heat2 {
   grid-area: 37 / 9 / 38 / 18;
+  animation: heat2 2s ease-in-out infinite;
 }
 #pan3-heat3 {
   grid-area: 38 / 9 / 39 / 18;
+  animation: heat2 2s ease-in-out infinite;
+}
+
+@keyframes heat2{
+    0%{
+        transform: translateX(0px);
+        color: yellow;
+    }
+    25% {
+        transform: translateX(10px); 
+    }
+    50%{
+        transform: translateX(-5px);
+        color: orange;
+    }
+    75% { 
+        transform: translateX(10px); 
+    }
+    100%{
+        transform: translate(0px);
+        color: red;
+    }
 }
 
 /* START OF FOURTH LAYOUT */
@@ -1378,144 +1741,213 @@ body {
 #woosh1 {
   grid-area: 12 / 14 / 13 / 31;
   margin-left: 2%;
+  animation: woosh 1s ease-in-out infinite;
+  animation-delay: 400ms;
 }
 #woosh2 {
   grid-area: 14 / 14 / 15 / 31;
   margin-left: 2%;
+  animation: woosh 1s ease-in-out infinite;
+  animation-delay: 400ms;
 }
 #woosh3 {
   grid-area: 16 / 14 / 17 / 31;
   margin-left: 2%;
+  animation: woosh 1s ease-in-out infinite;
+  animation-delay: 400ms;
 }
 #woosh4 {
   grid-area: 18 / 14 / 19 / 31;
   margin-left: 2%;
+  animation: woosh 1s ease-in-out infinite;
+  animation-delay: 400ms;
 }
 #woosh5 {
   grid-area: 20 / 14 / 21 / 31;
   margin-left: 2%;
+  animation: woosh 1s ease-in-out infinite;
+  animation-delay: 400ms;
 }
 #woosh6 {
   grid-area: 22 / 14 / 23 / 31;
   margin-left: 2%;
+  animation: woosh 1s ease-in-out infinite;
+  animation-delay: 400ms;
 }
 #woosh7 {
   grid-area: 24 / 14 / 25 / 31;
   margin-left: 2%;
+  animation: woosh 1s ease-in-out infinite;
+  animation-delay: 400ms;
 }
 /* WOOSH - MIDDLE */
 #woosh8 {
   grid-area: 11 / 6 / 12 / 31;
   margin-left: 2%;
+  animation: woosh 1s ease-in-out infinite;
+  animation-delay: 200ms;
 }
 #woosh9 {
   grid-area: 13 / 6 / 14 / 31;
   margin-left: 2%;
+  animation: woosh 1s ease-in-out infinite;
+  animation-delay: 200ms;
 }
 #woosh10 {
   grid-area: 15 / 6 / 16 / 31;
   margin-left: 2%;
+  animation: woosh 1s ease-in-out infinite;
+  animation-delay: 200ms;
 }
 #woosh11 {
   grid-area: 17 / 6 / 18 / 31;
   margin-left: 2%;
+  animation: woosh 1s ease-in-out infinite;
+  animation-delay: 200ms;
 }
 #woosh12 {
   grid-area: 19 / 6 / 20 / 31;
   margin-left: 2%;
+  animation: woosh 1s ease-in-out infinite;
+  animation-delay: 200ms;
 }
 #woosh13 {
   grid-area: 21 / 6 / 22 / 31;
   margin-left: 2%;
+  animation: woosh 1s ease-in-out infinite;
+  animation-delay: 200ms;
 }
 #woosh14 {
   grid-area: 23 / 6 / 24 / 31;
   margin-left: 2%;
+  animation: woosh 1s ease-in-out infinite;
+  animation-delay: 200ms;
 }
 #woosh15 {
   grid-area: 12 / 6 / 13 / 28;
   margin-left: 2%;
+  animation: woosh 1s ease-in-out infinite;
+  animation-delay: 200ms;
 }
 #woosh16 {
   grid-area: 14 / 6 / 15 / 28;
   margin-left: 2%;
+  animation: woosh 1s ease-in-out infinite;
+  animation-delay: 200ms;
 }
 #woosh17 {
   grid-area: 16 / 6 / 17 / 28;
   margin-left: 2%;
+  animation: woosh 1s ease-in-out infinite;
+  animation-delay: 200ms;
 }
 #woosh18 {
   grid-area: 18 / 6 / 19 / 28;
   margin-left: 2%;
+  animation: woosh 1s ease-in-out infinite;
+  animation-delay: 200ms;
 }
 #woosh19 {
   grid-area: 20 / 6 / 21 / 28;
   margin-left: 2%;
+  animation: woosh 1s ease-in-out infinite;
+  animation-delay: 200ms;
 }
 #woosh20 {
   grid-area: 22 / 6 / 23 / 28;
   margin-left: 2%;
+  animation: woosh 1s ease-in-out infinite;
+  animation-delay: 200ms;
 }
 #woosh21 {
   grid-area: 24 / 6 / 25 / 28;
   margin-left: 2%;
+  animation: woosh 1s ease-in-out infinite;
+  animation-delay: 200ms;
 }
 /* WOOSH - LEFT */
 #woosh22 {
   grid-area: 13 / 6 / 14 / 26;
   margin-left: 2%;
+  animation: woosh 1s ease-in-out infinite;
 }
 #woosh23 {
   grid-area: 15 / 6 / 16 / 26;
   margin-left: 2%;
+  animation: woosh 1s ease-in-out infinite;
 }
 #woosh24 {
   grid-area: 17 / 6 / 18 / 26;
   margin-left: 2%;
+  animation: woosh 1s ease-in-out infinite;
 }
 #woosh25 {
   grid-area: 19 / 6 / 20 / 26;
   margin-left: 2%;
+  animation: woosh 1s ease-in-out infinite;
 }
 #woosh26 {
   grid-area: 21 / 6 / 22 / 26;
   margin-left: 2%;
+  animation: woosh 1s ease-in-out infinite;
 }
 #woosh27 {
   grid-area: 23 / 6 / 24 / 26;
   margin-left: 2%;
+  animation: woosh 1s ease-in-out infinite;
 }
 #woosh28 {
   grid-area: 25 / 6 / 26 / 26;
   margin-left: 2%;
+  animation: woosh 1s ease-in-out infinite;
 }
 #woosh29 {
   grid-area: 14 / 6 / 15 / 24;
   margin-left: 2%;
+  animation: woosh 1s ease-in-out infinite;
 }
 #woosh30 {
   grid-area: 16 / 6 / 17 / 24;
   margin-left: 2%;
+  animation: woosh 1s ease-in-out infinite;
 }
 #woosh31 {
   grid-area: 18 / 6 / 19 / 24;
   margin-left: 2%;
+  animation: woosh 1s ease-in-out infinite;
 }
 #woosh32 {
   grid-area: 20 / 6 / 21 / 24;
   margin-left: 2%;
+  animation: woosh 1s ease-in-out infinite;
 }
 #woosh33 {
   grid-area: 22 / 6 / 23 / 24;
   margin-left: 2%;
+  animation: woosh 1s ease-in-out infinite;
 }
 #woosh34 {
   grid-area: 24 / 6 / 25 / 24;
   margin-left: 2%;
+  animation: woosh 1s ease-in-out infinite;
 }
 #woosh35 {
   grid-area: 26 / 6 / 27 / 24;
   margin-left: 2%;
+  animation: woosh 1s ease-in-out infinite;
+}
+
+@keyframes woosh{
+    0% { 
+        transform: scale(100%) translateX(-40px);
+    }
+    50% { 
+        transform: scale(50%)
+    }
+    100% { 
+        transform: scale(0%);
+        opacity: 10%;
+    }
 }
 
 /* SMACK */
@@ -1532,102 +1964,150 @@ body {
 #smack1 {
   grid-area: 8 / 35 / 9 / 42;
   margin-left: 2%;
+  animation: smack 1s ease-in-out infinite;
 }
+
+@keyframes smack{
+    0% { 
+        transform: scale(0%) skewX(-15deg); 
+    }
+    5% { 
+        transform: scale(400%) skewX(15deg); 
+    }
+    10% { 
+        transform: skewX(-15deg); 
+    }
+    15% { 
+        transform: skewX(15deg); 
+    }
+    20% { 
+        transform: skewX(0deg); 
+    }
+    100% { 
+        transform: skewX(0deg); 
+    }
+}
+
 #smack2 {
   grid-area: 9 / 30 / 10 / 42;
   margin-left: 6%;
+  animation: smack 1s ease-in-out infinite;
 }
 #smack3 {
   grid-area: 10 / 27 / 11 / 42;
   margin-left: 13%;
+  animation: smack 1s ease-in-out infinite;
 }
 #smack4 {
   grid-area: 11 / 28 / 12 / 42;
   margin-left: 22%;
+  animation: smack 1s ease-in-out infinite;
 }
 #smack5 {
   grid-area: 12 / 33 / 13 / 42;
   margin-left: 2%;
+  animation: smack 1s ease-in-out infinite;
 }
 #smack6 {
   grid-area: 13 / 30 / 14 / 42;
   margin-left: 12%;
+  animation: smack 1s ease-in-out infinite;
 }
 #smack7 {
   grid-area: 14 / 29 / 15 / 42;
   margin-left: 10%;
+  animation: smack 1s ease-in-out infinite;
 }
 #smack8 {
   grid-area: 15 / 29 / 16 / 42;
   margin-left: 16%;
+  animation: smack 1s ease-in-out infinite;
 }
 #smack9 {
   grid-area: 16 / 32 / 17 / 42;
   margin-left: 21%;
+  animation: smack 1s ease-in-out infinite;
 }
 #smack10 {
   grid-area: 17 / 25 / 18 / 42;
   margin-left: 22%;
+  animation: smack 1s ease-in-out infinite;
 }
 #smack11 {
   grid-area: 18 / 30 / 19 / 42;
   margin-left: 7%;
+  animation: smack 1s ease-in-out infinite;
 }
 #smack12 {
   grid-area: 19 / 30 / 20 / 42;
   margin-left: 6%;
+  animation: smack 1s ease-in-out infinite;
 }
 #smack13 {
   grid-area: 20 / 36 / 21 / 42;
   margin-left: 9%;
+  animation: smack 1s ease-in-out infinite;
 }
 #smack14 {
   grid-area: 21 / 27 / 22 / 42;
   margin-left: 14%;
+  animation: smack 1s ease-in-out infinite;
 }
 #smack15 {
   grid-area: 21 / 40 / 22 / 42;
   margin-left: 8%;
+  animation: smack 1s ease-in-out infinite;
 }
 #smack16 {
   grid-area: 22 / 29 / 23 / 42;
   margin-left: 9%;
+  animation: smack 1s ease-in-out infinite;
 }
 #smack17 {
   grid-area: 23 / 31 / 24 / 42;
+  animation: smack 1s ease-in-out infinite;
 }
 #smack18 {
   grid-area: 24 / 35 / 25 / 42;
+  animation: smack 1s ease-in-out infinite;
 }
 #smack19 {
   grid-area: 25 / 30 / 26 / 42;
   margin-left: 6%;
+  animation: smack 1s ease-in-out infinite;
 }
 #smack20 {
   grid-area: 26 / 30 / 27 / 42;
   margin-left: 6%;
+  animation: smack 1s ease-in-out infinite;
 }
 #smack21 {
   grid-area: 27 / 32 / 28 / 42;
   margin-left: 6%;
+  animation: smack 1s ease-in-out infinite;
 }
 #smack22 {
   grid-area: 28 / 25 / 29 / 42;
   margin-left: 6%;
+  animation: smack 1s ease-in-out infinite;
 }
 #smack23 {
   grid-area: 29 / 27 / 30 / 42;
   margin-left: 6%;
+  animation: smack 1s ease-in-out infinite;
 }
 #smack24 {
   grid-area: 30 / 30 / 31 / 42;
   margin-left: 6%;
+  animation: smack 1s ease-in-out infinite;
 }
 #smack25 {
   grid-area: 31 / 34 / 32 / 42;
   margin-left: 6%;
+  animation: smack 1s ease-in-out infinite;
 }
 #smack26 {
   grid-area: 32 / 36 / 33 / 42;
   margin-left: 6%;
+  animation: smack 1s ease-in-out infinite;
 }
